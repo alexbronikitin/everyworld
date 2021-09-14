@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="everyworld",
-    version="0.0.a1",
+    version="0.0.b1",
     author="AlexBroNikitin",
     author_email="alexnikitin071209@gmail.com",
     description="Collection of popular libraries and useful code",
